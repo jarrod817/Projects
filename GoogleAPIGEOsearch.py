@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 14 16:49:24 2015
 
-@author: Jarrod
-"""
 
 import urllib
 import json
