@@ -29,4 +29,4 @@ for i in files:
                 nextrow = nextrow + 1
     else:
         continue
-final_file.save("totaltrades.xlsx")
+final_file.save("total.xlsx")
